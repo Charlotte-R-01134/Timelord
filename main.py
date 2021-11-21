@@ -4,7 +4,7 @@ from datetime import datetime
 from pytz import timezone
 import asyncio
 
-TOKEN = "NzQyMzUzMjAzNzA1ODA2OTE4.XzE4TA.OB7GJin_EaqXlU0Puq1ueyJk-rE"
+TOKEN = token
 
 bot = commands.Bot(command_prefix="-", case_insensitive=True)
 
